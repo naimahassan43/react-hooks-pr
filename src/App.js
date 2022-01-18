@@ -1,11 +1,12 @@
-import UseMemoEx from "./components/UseMemoEx";
+import UseCallbackEx from "./components/UseCallbackEx";
+
 
 
 function App() {
   return (
     <div className="container mt-5">
   
-      <UseMemoEx/>
+      <UseCallbackEx/>
     </div>
   );
 }
