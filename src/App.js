@@ -1,10 +1,11 @@
-import UseRefEx3 from "./components/UseRefEx3";
+import UseMemoEx from "./components/UseMemoEx";
+
 
 function App() {
   return (
     <div className="container mt-5">
   
-      <UseRefEx3/>
+      <UseMemoEx/>
     </div>
   );
 }
