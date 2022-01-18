@@ -1,4 +1,5 @@
-import UseCallbackEx from "./components/UseCallbackEx";
+import CustomHookEx1 from "./components/CustomHookEx1";
+
 
 
 
@@ -6,7 +7,7 @@ function App() {
   return (
     <div className="container mt-5">
   
-      <UseCallbackEx/>
+      <CustomHookEx1/>
     </div>
   );
 }
