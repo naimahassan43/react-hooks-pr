@@ -1,4 +1,4 @@
-import CustomHookEx1 from "./components/CustomHookEx1";
+import CustomHookEx2 from "./components/CustomHookEx2";
 
 
 
@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="container mt-5">
   
-      <CustomHookEx1/>
+      <CustomHookEx2/>
     </div>
   );
 }
